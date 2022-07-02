@@ -1,0 +1,13 @@
+*Gerenciador de Credenciais
+*Utilizar partição *Arquivos;
+*Criar aulagit --> Inicializar ambiente --> criar arquivos; 
+*Conectar github --> conectar conta institucional;
+*No github criar repositório aulagit; 
+*Realizar conexão de repositórios no git/github;
+*Enviar os arquivos criados no git para o github;
+*Criar arquivos no github e envia-los para o git;
+-->Usar o git pull (para receber os arquivos no git)
+*Criar outra branch no git;
+*Mudar para a branch criada;
+*Criar outros arquivos na nova branch criada;
+*Enviar os arquivos da nova branch para o github.
