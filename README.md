@@ -3,9 +3,9 @@
 
 #### 👋 Oii Pessoal 
 
-_abrir o git bash_
-_criar pasta para iniciar nosso repositorio_
-_criar repositorio no github_
+_abrir o git bash_</br>
+_criar pasta para iniciar nosso repositorio_</br>
+_criar repositorio no github_</br>
 
 * $ git init 
 * $ git config --global user.name "seu usuario"
