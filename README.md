@@ -1,6 +1,8 @@
 # Projeto Rio Pomba Valley 
 ## Aula presencial no Senai-MG
 
+#### 👋 Oii Pessoal 
+
 _abrir o git bash_
 _criar pasta para iniciar nosso repositorio_
 _criar repositorio no github_
